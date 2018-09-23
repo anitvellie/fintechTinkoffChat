@@ -1,0 +1,7 @@
+*.xccheckout
+*.xcscmblueprint
+build/**
+DerivedData/**
+xcuserdata/**
+
+# well i hope it works #
